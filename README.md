@@ -2,8 +2,8 @@
 
 Mobil Programlama Dersi Lab Uygulamaları
 
-API 27
-Android JellyBean
+API 19
+Android 4.4 KitKat
 
 ## click-activity-example (12 Mart 2018)
 - Buton aktiviteleri.
