@@ -15,3 +15,8 @@ Android 4.4 KitKat
 - String dizisi oluşturup değerleri ListView ile ekrana yazdırmak.
 - EditText ile alınan String değerini önce ArrayList'e ordan da ListView'e aktarmak.
 - ListView elemanlarına tıklama eventi (setOnItemClickListener) kullanımı ile diğer aktivitede seçilen elemanı ekrana yazdırmak.
+
+## fragment-example (26 Mart 2018)
+- Fragment oluşturma, bağlama işlemleri.
+- İki buton yardımıyla fragmentler arasında geçiş yapmak.
+- Google Plus butonu fragmentini bağlama işlemi.
