@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/FragmentUygulamasi.iml" filepath="$PROJECT_DIR$/FragmentUygulamasi.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/click-activity-example.iml" filepath="$PROJECT_DIR$/click-activity-example.iml" />
     </modules>
   </component>
 </project>
